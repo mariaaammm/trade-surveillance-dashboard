@@ -29,11 +29,11 @@ This is a simple interactive dashboard built using **Streamlit** and **Plotly** 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/trade-surveillance-dashboard.git
+git clone https://github.com/mariaaammm/trade-surveillance-dashboard.git
 cd trade-surveillance-dashboard
 ```
 
-2. Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional)
 
 ```bash
 python -m venv venv
@@ -51,3 +51,18 @@ Run the Streamlit app locally with:
 ```bash
 streamlit run trades.py
 ```
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/fig1.png" width="500" alt="Total Trade Value by Trader"><br>
+      <b>Total Trade Value by Trader</b>
+    </td>
+    <td align="center">
+      <img src="images/fig4.png" width="500" alt="Trade Value by Region and City"><br>
+      <b>Trade Value by Region and City</b>
+    </td>
+  </tr>
+</table>
