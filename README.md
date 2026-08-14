@@ -45,7 +45,7 @@ venv\Scripts\activate     # Windows
 ```bash
 pip install -r requirements.txt
 ```
-## How to Run 📈
+## How to Run
 
 Run the Streamlit app locally with:
 ```bash
